@@ -1,2 +1,2 @@
-# CoreJava Basis Program
+# CoreJava Basic Program
 
