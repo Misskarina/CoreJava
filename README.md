@@ -4,3 +4,4 @@
 ### Conditional Statements
 ### Operators
 ### Loops & Strings
+### Arrays
