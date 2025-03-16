@@ -5,3 +5,4 @@
 ### Operators
 ### Loops & Strings
 ### Arrays
+### Functions & Method 
